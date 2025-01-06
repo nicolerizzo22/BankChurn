@@ -20,7 +20,7 @@
 **OBJECTIVE #2: CLEAN THE DATA** (*By fixing inconsistencies in labeling, handling erroneous values & fixing currency fields*)
 -	Check the data types for each column and make any necessary fixes
 -	Replace missing values in categorical columns with ‘MISSING’, and missing values in the numeric columns with the median value
--	Profile the numeric columns in the data, if there are any extreme or non-sensical values, impute them with the median of the column. 
+-	Profile the numeric columns in the data, if there are any extreme or non-sensical values, impute them with the median of the column
 -	Combine any variations in country names in the ‘Geography’ column to a single value per country
 
 
@@ -30,4 +30,4 @@
 -	Build box plots for each numeric field, broken out by churners vs. non-churners
 
 
-Thank you for takikng the time to look at this project! 🫶
+Thank you for taking the time to look at this project! 🫶
